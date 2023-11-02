@@ -1,6 +1,6 @@
 # deliberate-v3-inpainting Cog model
 
-This is an implementation of inpainting using the model [XpucT/Deliberate](https://huggingface.co/XpucT/Deliberate/blob/main/Deliberate_v3-inpainting.safetensors)) as a Cog model. [Cog packages machine learning models as standard containers.](https://github.com/replicate/cog)
+This is an implementation of inpainting using the model [XpucT/Deliberate](https://huggingface.co/XpucT/Deliberate/blob/main/Deliberate_v3-inpainting.safetensors) as a Cog model. [Cog packages machine learning models as standard containers.](https://github.com/replicate/cog)
 
 First, download the pre-trained weights:
 
